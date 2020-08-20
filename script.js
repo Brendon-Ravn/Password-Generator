@@ -55,7 +55,9 @@ function writePassword() {
 
 }
 
-
+function refresh(){
+  window.location.reload("Refresh")
+}
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
