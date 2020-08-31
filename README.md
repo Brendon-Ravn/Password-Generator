@@ -2,8 +2,7 @@
 
 
 ## Description
-This was a homework assignment to use Javascript to create a Random Password Generator.<br />
-I ended up having to go in and add to the css to get the password to stay in the box.
+This is just a fun little app where I used Javascript to create a Random Password Generator.<br />
 
 
 ## Usage
